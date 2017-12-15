@@ -26,5 +26,10 @@ namespace Curso_1931___Dev_App_Web_com_ASP.NET_MVC.Controllers
 
             return View();
         }
+
+        public ActionResult MyPage() {
+
+            return View();
+        }
     }
 }
