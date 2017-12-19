@@ -1,14 +1,12 @@
 ﻿using System;
+using System.Text;
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Test
 {
     [TestClass]
-    public class UnitTest1
+    public class UserTest
     {
-        [TestMethod]
-        public void TestMethod1()
-        {
-        }
     }
 }

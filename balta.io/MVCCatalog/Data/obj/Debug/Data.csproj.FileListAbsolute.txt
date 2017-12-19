@@ -1,0 +1,2 @@
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
