@@ -1,0 +1,6 @@
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\BookStore\Domain\bin\Debug\Domain.dll
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\BookStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\BookStore\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\BookStore\Domain\obj\Debug\Domain.dll
+C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\BookStore\Domain\obj\Debug\Domain.pdb
