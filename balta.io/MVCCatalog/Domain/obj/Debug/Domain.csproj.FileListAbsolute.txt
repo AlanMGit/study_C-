@@ -4,3 +4,9 @@ C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Domain\ob
 C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Domain\obj\Debug\Domain.dll
 C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Domain\obj\Debug\Domain.pdb
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Domain\bin\Debug\Domain.dll
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Domain\bin\Debug\Domain.pdb
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Domain\obj\Debug\Domain.dll
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Domain\obj\Debug\Domain.pdb

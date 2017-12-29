@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Domain;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity.ModelConfiguration;
 using System.Linq;
@@ -13,10 +14,10 @@ namespace Data.Mappings
         {
             ToTable("User");
             HasKey(x => x.Id);
-            Property(x => x.Name).isRequired();
-            Property(x => x.Email).isRequired();
-            Property(x => x.Username).isRequired();
-            Property(x => x.Password).isRequired();
+            Property(x => x.Name).IsRequired();
+            Property(x => x.Email).IsRequired();
+            Property(x => x.Username).IsRequired();
+            Property(x => x.Password).IsRequired();
         }
     }
 }

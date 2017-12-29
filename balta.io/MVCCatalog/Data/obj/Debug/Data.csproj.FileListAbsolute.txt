@@ -1,2 +1,15 @@
 C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
 C:\Users\PRION\Documents\alan\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\Data.dll.config
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\Data.dll
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\Data.pdb
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\Domain.dll
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\EntityFramework.dll
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\Domain.pdb
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\EntityFramework.xml
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.dll
+C:\Users\AlanM\Documents\studies\study_csharp\balta.io\MVCCatalog\Data\obj\Debug\Data.pdb

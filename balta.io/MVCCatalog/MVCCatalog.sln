@@ -6,11 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F55EFD85-D7A0-4AF6-B2D2-95597BDE6A0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{CADB9AD8-07E9-4FB3-B6E1-8ED325D62644}"
-	ProjectSection(ProjectDependencies) = postProject
-		{874E097E-9A59-437D-9AD1-C5298ADABD9C} = {874E097E-9A59-437D-9AD1-C5298ADABD9C}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{874E097E-9A59-437D-9AD1-C5298ADABD9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{B3120120-F4E0-486D-9D42-9493A3EAD118}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,6 +71,22 @@ Global
 		{874E097E-9A59-437D-9AD1-C5298ADABD9C}.Release|x64.Build.0 = Release|Any CPU
 		{874E097E-9A59-437D-9AD1-C5298ADABD9C}.Release|x86.ActiveCfg = Release|Any CPU
 		{874E097E-9A59-437D-9AD1-C5298ADABD9C}.Release|x86.Build.0 = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|ARM.Build.0 = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|x64.Build.0 = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Debug|x86.Build.0 = Debug|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|ARM.ActiveCfg = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|ARM.Build.0 = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|x64.ActiveCfg = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|x64.Build.0 = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|x86.ActiveCfg = Release|Any CPU
+		{B3120120-F4E0-486D-9D42-9493A3EAD118}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
